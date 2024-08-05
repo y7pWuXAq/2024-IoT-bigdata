@@ -31,13 +31,46 @@
     - 표현 : 인사이트 도출(시각화, 그리드)
 
 - 데이터 분석 기초
-    - 파이썬 외 R, 자바, C# 등 다른 언어로도 분석가능. 단, 파이썬이 가장 쉽기 때문에 많이 사용
-    - 데이터 분석에 들어가는 라이브러리(모듈)부터 학습
-        - 데이터 처리 : Numpy(수치해석, 계산), Pandas(데이터 처리), Scipy()
+    - 파이썬 - 외 R, 자바, C# 등 다른 언어로도 분석가능. 단, 파이썬 가장 쉽기때문에 많이 사용
+    - 데이터 분석에 들어가는 라이브러리(모듈) 부터 학습
+        1. 데이터 처리 - Numpy(수치해석, 계산), Pandas(데이터처리), Scipy(과학계산) ...
+        2. 시각화 - Folium(지도), Matplotlib(차트), Seaborn(Matplotlib 고급화) ...
+        3. 엑셀 - openpyxl(엑셀 처리)
+        4. 크롤링 - Selenium(웹크롤링 자동화), BeautifulSoup(웹페이지 정제)
+        5. 머신러닝/딥러닝 - Scikit-Learn(가장 간단한 머신러닝), MS CNTK, Theano, Keras(최초의 딥러닝), TensorFlow(제일유명, Keras포함), PyTorch(페이스북!)
+
+- 빅데이터 학습
+    - 실습자료, 파이썬 기본(패스), 빅데이터 분석 기초학습 
+    - [넘파이](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day1/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day1/bda02_pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
+
+
 
 ### DAY 02
+- 빅데이터 학습
+    - 기초학습, 크롤링 관련
+    - 셀레니움 + 뷰티플수프 같이 진행    
+    - [뷰티플수프](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba04_beautifulsoup_basic.ipynb)
+    - [셀레니움](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
+
+- 빅데이터 실습
+    - 스타벅스 입지 분석
+    - [스벅입지분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba06_starbucks_analysis.ipynb)
+
+
 
 ### DAY 03
+- 개인 토이프로젝트
+    - 깃헙 리포지토리, 빅데이터, 머신러닝, 딥러닝 레퍼런스를 참조 -> 클로닝형태
+    - 리포지토리 10개 정도 리스트업 또는 리포지토리 검색해서 진행
+
+- 빅데이터 실습
+    - 스타벅스 입지 분석(계속)
+    - 지난주 최종으로 만든 데이터 csv파일 다시 로드
+    - [스벅입지분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day3/dba07_starbucks_analysis.ipynb)
+
+
 
 ### DAY 04
 
