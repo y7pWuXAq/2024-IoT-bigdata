@@ -127,7 +127,7 @@
 ### DAY 07
 - 머신러닝, 딥러닝
     - CNN(Convolutional NN) 
-    - [이미지분류](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day7/dba12_image_class.ipynb)
+    - [이미지분류](https://github.com/y7pWuXAq/2024-IoT-bigdata/blob/main/day07/dba12_image_class.ipynb)
 
 
 
@@ -140,7 +140,7 @@
 
 ### DAY 09
 
-## Furthur
+### Furthur
 1. 기초
     1. 역전파
     2. 데이터로더
