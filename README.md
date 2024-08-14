@@ -134,13 +134,22 @@
 ### DAY 08
 - 머신러닝, 딥러닝
     - 객체탐지(Object Detection)
-    - OpenCV, Yolov8
-        
+    - OpenCV, YOLOv8
+    - [YOLOv8](https://github.com/y7pWuXAq/2024-IoT-bigdata/blob/main/day8/dba13_object_detection.ipynb)
+
+    <img src="https://raw.githubusercontent.com/y7pWuXAq/2024-IoT-bigdata/main/images/bda005.png" width="700">
+
+    https://github.com/user-attachments/assets/c424ecfa-a51e-4aae-99d8-d60b421b9f51
+
 
 
 ### DAY 09
+- 머신러닝, 딥러닝 개인클로닝
+    - 예제 리포지토리 참조, Cloning
 
-### Furthur
+
+
+## Furthur
 1. 기초
     1. 역전파
     2. 데이터로더
